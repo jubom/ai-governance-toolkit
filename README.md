@@ -1,6 +1,6 @@
 # AI Governance Toolkit
 
-Practical, reusable templates for data and AI governance, maintained by **Janet Ubom** ([janetu.com](https://janetu.com)).
+Practical, reusable templates for data and AI governance, maintained by **Janet Ubom** ([janetu.com]([[http](https://jubom.github.io)])).
 
 Most AI programs don't fail at the model. They fail at the data underneath it: unclear ownership, ambiguous definitions, unprotected personal data, and no agreed bar for what AI is allowed to consume. These templates turn that problem into concrete, adoptable controls.
 
